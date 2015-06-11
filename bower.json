@@ -1,0 +1,23 @@
+{
+  "name": "V12.Calendar",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dlarcara/Calendar",
+  "authors": [
+    "Dave Larcara <dlarcara@v12groupinc.com>"
+  ],
+  "description": "Calendar Control for V12 Group",
+  "main": "calendar.js",
+  "keywords": [
+    "Calendar",
+    "V12"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
