@@ -1,3 +1,3 @@
 function makeCalendar() {
-	alert("HERE");
+	alert("HERE TEST");
 }
