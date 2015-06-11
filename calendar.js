@@ -1,0 +1,3 @@
+function makeCalendar() {
+	alert("HERE");
+}
